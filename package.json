@@ -6,6 +6,10 @@
   "scripts": {
     "run": "node index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwtlake/my-book-collection.git"
+  },
   "author": "Jonathan Lake",
   "license": "ISC",
   "dependencies": {

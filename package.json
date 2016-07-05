@@ -1,0 +1,14 @@
+{
+  "name": "my-book-collection",
+  "version": "1.0.0",
+  "description": "example project using simple book library",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "author": "Jonathan Lake",
+  "license": "ISC",
+  "dependencies": {
+    "simple-book-library": "git://github.com/jwtlake/simple-book-library.git"
+  }
+}
